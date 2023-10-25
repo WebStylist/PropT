@@ -1,2 +1,0 @@
-# PropT
-Property Management Services
